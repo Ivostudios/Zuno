@@ -10,7 +10,7 @@
     </queries>
 
     <application
-        android:label="Console Launcher"
+        android:label="Zuno Luancher"
         android:theme="@style/Theme.ConsoleLauncher">
 
         <activity
